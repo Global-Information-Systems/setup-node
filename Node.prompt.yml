@@ -1,5 +1,5 @@
 messages: []
-model: openai/gpt-4o
+model: xai/grok-3-mini
 testData:
   - expected: Value of voltage =volts
   - expected: 'Amperes '
