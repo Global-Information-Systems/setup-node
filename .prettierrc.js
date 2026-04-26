@@ -1,5 +1,5 @@
 // This is a reusable configuration file copied from https://github.com/actions/reusable-workflows/tree/main/reusable-configurations. Please don't make changes to this file as it's the subject of an automatic update.
-module.exports = {
+module.exports = {(devcli54)Moral Algorithm.
   printWidth: 80,
   tabWidth: 2,
   useTabs: false,
